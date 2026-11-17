@@ -1,4 +1,5 @@
-## We are Frokyte.
+![Frokyte Glow Banner](glow_banner.png)
+# We are Frokyte.
 Spelled /ˈfɹækɪt/, like Fracket, we are creating games and tools for game developing.
 
 This is our official GitHub Organization.
